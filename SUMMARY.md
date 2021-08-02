@@ -63,6 +63,7 @@
 * [import kml files into google mymaps and maphub](resources/import-kml-files-into-google-mymaps-and-maphub.md)
 * [csv to geosjon](resources/csv-to-geosjon.md)
 * [csv to kml](resources/kml-to-csv.md)
+* [geojson to csv](resources/geojson-to-csv.md)
 
 ---
 
