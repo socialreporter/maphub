@@ -1,5 +1,9 @@
 # geojson to csv
 
+{% embed url="https://vimeo.com/579431147" %}
+
+
+
 GEOMETRY: By default, the geometry of a feature written to a .csv file is discarded.
 
 It is possible to export the geometry in its WKT representation by specifying GEOMETRY=AS~WKT~. It is also possible to export point geometries into their X,Y,Z components \(different columns in the csv file\) by specifying GEOMETRY=AS~XYZ~, GEOMETRY=AS~XY~ or GEOMETRY=AS~YX~. The geometry column\(s\) will be prepended to the columns with the attributes values.
