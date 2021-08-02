@@ -56,15 +56,14 @@
 * [mac osx ogr2ogr install](resources/mac-osx-ogr2ogr-install.md)
 * [Geocode adresses with Google Earth Desktop](resources/geocode-addresses-with-google-earth.md)
 * [convert csv to geojson](resources/csvjson-convert-csv-to-geojson.md)
-* [convert geojson to kml](resources/convert-geojson-to-kml.md)
 * [Streetview url](resources/streetview-url.md)
 * [google maps directions urls](resources/google-maps-directions-urls.md)
 * [weather.com url from coordinates](resources/weather.com-url-from-coordinates.md)
 * [import kml files into google mymaps and maphub](resources/import-kml-files-into-google-mymaps-and-maphub.md)
-* [csv to geojson](resources/csv-to-geosjon.md)
 * [csv to kml](resources/kml-to-csv.md)
 * [geojson to csv](resources/geojson-to-csv.md)
-* [kml to csv](resources/kml-to-csv-2.md)
+* [kml to csv](resources/kml-to-csv-1.md)
+* [convert geojson to kml](resources/convert-geojson-to-kml.md)
 
 ---
 
