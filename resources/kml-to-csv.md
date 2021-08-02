@@ -1,7 +1,5 @@
 # kml to csv
 
-## csv to kml
-
 where longitude and latitude are the column names in the csv works for converting csv files to kml for maphub
 
 ```bash
