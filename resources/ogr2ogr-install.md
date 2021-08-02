@@ -1,4 +1,4 @@
-# ogr2ogr install
+# ogr2ogr install and usage
 
 ```bash
 sudo apt install gdal-bin
