@@ -52,7 +52,7 @@
 
 * [Tutorials](resources/tutorials.md)
 * [csvkit install](resources/join-2-csv-files.md)
-* [ogr2ogr install and usage](resources/ogr2ogr-install.md)
+* [ogr2ogr linux install](resources/ogr2ogr-install.md)
 * [mac osx ogr2ogr install](resources/mac-osx-ogr2ogr-install.md)
 * [Geocode adresses with Google Earth Desktop](resources/geocode-addresses-with-google-earth.md)
 * [convert csv to geojson](resources/csvjson-convert-csv-to-geojson.md)
