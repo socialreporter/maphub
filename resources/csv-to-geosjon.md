@@ -1,4 +1,4 @@
-# csv to geosjon
+# csv to geojson
 
 where longitude and latitude are the column names in the csv
 
