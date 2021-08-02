@@ -1,4 +1,4 @@
-# index
+# csv to geosjon
 
 where longitude and latitude are the column names in the csv
 
