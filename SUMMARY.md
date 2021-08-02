@@ -62,7 +62,7 @@
 * [weather.com url from coordinates](resources/weather.com-url-from-coordinates.md)
 * [import kml files into google mymaps and maphub](resources/import-kml-files-into-google-mymaps-and-maphub.md)
 * [csv to geosjon](resources/csv-to-geosjon.md)
-* [kml to csv](resources/kml-to-csv.md)
+* [csv to kml](resources/kml-to-csv.md)
 
 ---
 
