@@ -64,7 +64,6 @@
 * [geojson to csv](resources/geojson-to-csv.md)
 * [kml to csv](resources/kml-to-csv.md)
 * [convert geojson to kml](resources/convert-geojson-to-kml.md)
-* [test](resources/test.md)
 
 ---
 
