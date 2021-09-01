@@ -6,7 +6,7 @@ description: Guide to developing maps
 
 ## Guide
 
-This is a possible outline of a Maphub guide. So far I've just dropped into pages references from blog posts and forum discussions. Our aim would be to complement and expand on the official Maphub guide, hopefully in collaboration with the developer [https://docs.maphub.net/](https://docs.maphub.net/)
+This is a draft outline of a Maphub guide, to support projects we are working with. There are [official Maphub docs in Gitbook](https://docs.maphub.net/), and a lot of useful tips and solutions in the Maphub [blog](https://maphub.medium.com/) and [forum](https://forum.maphub.net/). I'm here exploring how to bring those together, and supplement with other content developed with projects. I'm in touch with the developer to see if this would be generally useful.
 
 #### Getting started
 
