@@ -6,7 +6,7 @@ description: Guide to developing maps
 
 ## Guide
 
-This is a possible outline of a Maphub guide. So far I've just dropped into pages references from blog posts and forum discussions. From contact so far I think that Maphub developer Zsolt would be interested in our collaboration. He has some docs, but not much so far [https://docs.maphub.net/](https://docs.maphub.net/)
+This is a possible outline of a Maphub guide. So far I've just dropped into pages references from blog posts and forum discussions. Our aim would be to complement and expand on the official Maphub guide, hopefully in collaboration with the developer [https://docs.maphub.net/](https://docs.maphub.net/)
 
 #### Getting started
 
